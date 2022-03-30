@@ -12,10 +12,10 @@
 </p>g
 WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lakshitha-shehara/Queen-Alexa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ansantechy/Queen-Alexa)
 # ```ALEXA-BUG-BOT```
 <p align="center">
-<a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
+<a href="https://github.com/ansantechy/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
 <a href="https://github.com/ansantechy/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HYPER-MOD/bug-bot?color=blue&style=flat-square"></a>
 <a href="https://github.com/ansantechy/Queen-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HYPER-MOD/bug-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/ansantechy/Queen-Alexa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HYPER-MOD/bug-bot?label=Watchers&color=blue&style=flat-square"></a>
